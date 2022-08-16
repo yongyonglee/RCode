@@ -39,7 +39,7 @@ install.packages(c('devtools',
                    'renv'))
 
 # install PLP Packages
-devtools::install_github("OHDSI/CircleR")
+devtools::install_github("OHDSI/CirceR")
 devtools::install_github("OHDSI/OhdsiRTools")
 devtools::install_github("OHDSI/OhdsiSharing")
 devtools::install_github("OHDSI/DatabaseConnector")
