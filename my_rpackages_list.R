@@ -19,7 +19,7 @@ devtools::install_github("ohdsi/Hades", upgrade = "always")
 # updating packages
 remotes::update_packages()
 
-# Language servcer protocol for R
+# Language server protocol for R
 install.packages("languageserver")
 
 # Downloading essential R package
